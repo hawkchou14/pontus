@@ -3,9 +3,9 @@
 
 
 
-** CACTI graph link 
+** CACTI graph link **
 
-''' /graph_view.php?action=tree&tree_id=$graph_tree_id&leaf_id=$graph_tree_item_id
+``` /graph_view.php?action=tree&tree_id=$graph_tree_id&leaf_id=$graph_tree_item_id
 
 
 ''' http://ibmtnn.ddns.net:8105/pontus/graph_view.php?action=tree_content&tree_id=1&leaf_id=7
